@@ -8,6 +8,6 @@ public class UserDaoImpl implements UserDao{
 	@Override
 	public String findName(Integer uid) {
 		
-		return "john";
+		return "john"; 
 	}
 }
